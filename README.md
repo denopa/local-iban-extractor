@@ -36,13 +36,17 @@ cargo build --release
 ## Usage
 
 1. Start the server:
-```bash
-cargo run
+```
+release/local-iban-extractor
 ```
 
 2. Open your web browser and navigate to:
 ```
 http://localhost:8080
+```
+or
+```
+http://127:0:0:1:8080
 ```
 
 3. Either drag and drop a PDF file onto the interface or click to select one
