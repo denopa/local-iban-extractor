@@ -17,7 +17,7 @@ A web-based tool for extracting IBAN (International Bank Account Number) informa
 
 ## Prerequisites
 
-- Rust (latest stable version)
+- Rust (latest stable version) https://www.rust-lang.org/tools/install
 - Cargo (comes with Rust)
 
 ## Installation
